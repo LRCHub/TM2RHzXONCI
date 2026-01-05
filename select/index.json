@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Phantom Joke",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-01-05T17:23:48.531379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Phantom Joke",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_Phantom_Joke_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Phantom Joke",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_Phantom_Joke_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Phantom Joke",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_Phantom_Joke_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Phantom Joke (From \"Fate Grand Order: Absolute Demonic Front - Babylonia\") [Opening]",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/04_Phantom_Joke_(From__Fate_Grand_Order__Absolute_Demonic_Front_-_Babylonia_)_[Open_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Phantom Joke",
+      "artist": "UNISON SQUARE GARDEN (ユニゾン・スクエア・ガーデン)",
+      "has_synced": true,
+      "path": "select/05_Phantom_Joke_UNISON_SQUARE_GARDEN_(ユニゾン・スクエア・ガーデン).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Phantom Joke",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Phantom_Joke_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
